@@ -107,33 +107,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Sorin has been an absolute pleasure! His attention to detail and innovative problem-solving skills have greatly contributed to the success of our projects. His dedication to quality and timely delivery is commendable. I highly recommend Sorin for any software development endeavor.",
+    name: "Emily Johnson",
+    title: "Project Manager",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Sorin's expertise in software development is truly exceptional. His ability to grasp complex requirements and translate them into efficient code is impressive. Sorin's professionalism and clear communication make collaboration effortless. It's been a pleasure working with him, and I look forward to future projects together.",
+    name: "Michael Rodriguez",
+    title: "Lead Developer",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "I've had the privilege of working with Sorin on multiple occasions, and each time he has exceeded expectations. His passion for crafting clean, scalable code shines through in every project. Sorin's proactive approach to problem-solving and his strong work ethic make him an invaluable asset to any development team. I wholeheartedly endorse Sorin for his outstanding skills and professionalism.",
+    name: "Sarah Thompson",
+    title: "Software Engineer",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Sorin is a software development rockstar! His technical prowess combined with his collaborative nature make him a joy to work with. Sorin consistently delivers high-quality solutions on time and within budget. His ability to adapt to changing requirements and his meticulous attention to detail set him apart. I wouldn't hesitate to recommend Sorin for any software development project.",
+    name: "David Martin",
+    title: " IT Director",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "I've had the pleasure of collaborating with Sorin on several challenging projects, and I couldn't be more satisfied with the results. His depth of knowledge in software development is remarkable, and he always brings fresh ideas to the table. Sorin's dedication to excellence and his commitment to delivering exceptional results make him a standout developer. It's been a privilege working alongside Sorin, and I eagerly anticipate future collaborations.",
+    name: "Jennifer Lee",
+    title: "Chief Technology Officer",
   },
 ];
 
@@ -173,8 +173,8 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Software Developer Intern",
+    desc: "Played A main rool in the development of a web application using React.js, Amazon AWS, NextJS, GraphQL",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
